@@ -1,0 +1,65 @@
+{
+    "1": {
+        "datetime": "2021-07-13 13:50:36.693623",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "sets": [
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    },
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    },
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    }
+                ]
+            }
+        ],
+        "name": "Treino de peito"
+    },
+    "2": {
+        "datetime": "2021-07-13 13:50:36.693623",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "sets": [
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    },
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    },
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    }
+                ]
+            },
+            {
+                "name": "Shoulder Press",
+                "sets": [
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    },
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    },
+                    {
+                        "reps": 5,
+                        "weight": 65.5
+                    }
+                ]
+            }
+        ],
+        "name": "Treino de peito e ombro"
+    }
+}
